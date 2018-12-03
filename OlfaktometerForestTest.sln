@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlfaktometerForestTest", "Assembly-CSharp.csproj", "{8F29B7C3-7815-5623-6DEA-31A7B25F198E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlfaktometerForestTest", "Assembly-CSharp-Editor.csproj", "{67A123E0-F26E-123D-31BE-51C2FD4A77D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F29B7C3-7815-5623-6DEA-31A7B25F198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F29B7C3-7815-5623-6DEA-31A7B25F198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F29B7C3-7815-5623-6DEA-31A7B25F198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F29B7C3-7815-5623-6DEA-31A7B25F198E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67A123E0-F26E-123D-31BE-51C2FD4A77D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A123E0-F26E-123D-31BE-51C2FD4A77D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A123E0-F26E-123D-31BE-51C2FD4A77D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A123E0-F26E-123D-31BE-51C2FD4A77D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
